@@ -1,0 +1,20 @@
+{
+  "item.mmc.ruby": "Ruby",
+  "item.mmc.deez": "DEEZ",
+  "block.mmc.ruby_block": "Block of Ruby",
+  "block.mmc.ruby_ore": "Ruby Ore",
+  "item.mmc.ruby_sword": "Demon Sword",
+  "item.mmc.ruby_pickaxe": "Demon Pickaxe",
+  "item.mmc.ruby_axe": "Demon Axe",
+  "item.mmc.ruby_shovel": "Demon Shovel",
+  "item.mmc.ruby_scythe": "Demon Scythe",
+  "item.mmc.bat": "Bat",
+  "item.mmc.ruby_helmet": "Demon Helm",
+  "item.mmc.ruby_chestplate": "Demon Chestplate",
+  "item.mmc.ruby_leggings": "Demon leggings",
+  "item.mmc.ruby_boots": "Demon boots",
+  "item.mmc.moth": "Moth",
+  "item.mmc.greatsword": "Greatsword",
+  "itemGroup.mmcTab": "MothmanCraft"
+
+}
