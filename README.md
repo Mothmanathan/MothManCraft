@@ -1,2 +1,3 @@
 # MothManCraft
-MothmanCraft, Minecraft mod
+MothmanCraft, My minecraft mod :p
+
