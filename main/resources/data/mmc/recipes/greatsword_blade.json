@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xyx",
+    "xyx",
+    "xyx"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "minecraft:iron_block"
+    },
+    "y":
+    {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "result":
+  {
+    "item": "mmc:greatsword_blade",
+    "count": 1
+  }
+}

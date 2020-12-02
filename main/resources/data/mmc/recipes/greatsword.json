@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "   ",
+    " x ",
+    " y "
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "mmc:greatsword_blade"
+    },
+    "y":
+    {
+      "item": "mmc:greatsword_hilt"
+    }
+  },
+  "result":
+  {
+    "item": "mmc:greatsword",
+    "count": 1
+  }
+}

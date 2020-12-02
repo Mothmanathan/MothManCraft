@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xx ",
+    " y ",
+    " y "
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "mmc:ruby"
+    },
+    "y":
+    {
+      "item": "mmc:corrupted_blaze_rod"
+    }
+  },
+  "result":
+  {
+    "item": "mmc:ruby_scythe",
+    "count": 1
+  }
+}
