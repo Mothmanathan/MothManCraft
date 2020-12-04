@@ -1,0 +1,14 @@
+{
+    "item.bat_sound": {
+          "category": "item",
+          "subtitle": "item.bat_sound.sub",
+          "sounds": [
+            {
+              "name": "mmc:item/bat_sound",
+              "stream": true
+            }
+
+          ]
+    }
+
+}
